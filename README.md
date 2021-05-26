@@ -1,6 +1,7 @@
 
 ## Laradock installation
 - [Laradock / Getting Started / Already have a PHP project](https://laradock.io/getting-started/#a-1-already-have-a-php-project)
+- Laradock directory name is `laradock-jetstream` .
 
 -----
 
